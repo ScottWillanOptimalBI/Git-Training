@@ -1,5 +1,10 @@
 Scott
 cat dog frog fish crab
 
+<<<<<<< HEAD
 James
 bear goat cow finch carp
+=======
+Simba
+lions tigers bears oh my
+>>>>>>> feature/p2
